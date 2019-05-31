@@ -1,4 +1,5 @@
-# Classes in JS Classes Travel
+
+l# Classes in JS Classes Travel
 
 ## Objectives
 + Use class syntax to construct objects
